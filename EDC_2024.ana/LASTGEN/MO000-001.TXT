@@ -1,0 +1,23 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Client		NFI		nouveau fichier
+Licence		NFI		nouveau fichier
+Logiciel		NFI		nouveau fichier
+Technicien		NFI		nouveau fichier
+Appel		NFI		nouveau fichier
+Formation_Proposée		NFI		nouveau fichier
+SessionFormation		NFI		nouveau fichier
+Habilitation_Support_Tech		NFI		nouveau fichier
+Habilitation_Formation		NFI		nouveau fichier
+Contrainte_Licence_Client		NWL	Client (IDClient) et Licence (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Licence (IDClient)
+Contrainte_Licence_Logiciel		NWL	Logiciel (IDLogiciel) et Licence (IDLogiciel)	Nouvelle liaison entre les fichiers Logiciel (IDLogiciel) et Licence (IDLogiciel)
+Contrainte_SessionFormation_Formation_Proposée		NWL	Formation_Proposée (IDFormation) et SessionFormation (IDFormation)	Nouvelle liaison entre les fichiers Formation_Proposée (IDFormation) et SessionFormation (IDFormation)
+Contrainte_Client_SessionFormation		NWL	Client (IDClient) et SessionFormation (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et SessionFormation (IDClient)
+Contrainte_SessionFormation_Technicien		NWL	Technicien (IDTech) et SessionFormation (IDTech)	Nouvelle liaison entre les fichiers Technicien (IDTech) et SessionFormation (IDTech)
+Contrainte_Client_Appel		NWL	Client (IDClient) et Appel (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Appel (IDClient)
+Contrainte_Licence_Appel		NWL	Licence (NumLicence) et Appel (NumLicence)	Nouvelle liaison entre les fichiers Licence (NumLicence) et Appel (NumLicence)
+Contrainte_Logiciel_Formation_Proposée		NWL	Logiciel (IDLogiciel) et Formation_Proposée (IDLogiciel)	Nouvelle liaison entre les fichiers Logiciel (IDLogiciel) et Formation_Proposée (IDLogiciel)
+Contrainte_Habilitation_Support_Tech_Technicien		NWL	Technicien (IDTech) et Habilitation_Support_Tech (IDTech)	Nouvelle liaison entre les fichiers Technicien (IDTech) et Habilitation_Support_Tech (IDTech)
+Contrainte_Logiciel_Habilitation_Support_Tech		NWL	Logiciel (IDLogiciel) et Habilitation_Support_Tech (IDLogiciel)	Nouvelle liaison entre les fichiers Logiciel (IDLogiciel) et Habilitation_Support_Tech (IDLogiciel)
+Contrainte_Appel_Technicien		NWL	Technicien (IDTech) et Appel (IDTech)	Nouvelle liaison entre les fichiers Technicien (IDTech) et Appel (IDTech)
+Contrainte_Technicien_Habilitation_Formation		NWL	Technicien (IDTech) et Habilitation_Formation (IDTech)	Nouvelle liaison entre les fichiers Technicien (IDTech) et Habilitation_Formation (IDTech)
+Contrainte_Habilitation_Formation_Formation_Proposée		NWL	Formation_Proposée (IDFormation) et Habilitation_Formation (IDFormation)	Nouvelle liaison entre les fichiers Formation_Proposée (IDFormation) et Habilitation_Formation (IDFormation)

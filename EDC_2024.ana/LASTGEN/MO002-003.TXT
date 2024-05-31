@@ -1,0 +1,7 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Client		TAR	243	nouvelle taille enregistrement : 243
+Client	Tel	TAI+	4	la rubrique Tel a comme nouvelle taille 15 au lieu de 11
+Technicien		TAR	193	nouvelle taille enregistrement : 193
+Technicien	Tel	TAI+	4	la rubrique Tel a comme nouvelle taille 15 au lieu de 11
+Appel		TAR	369	nouvelle taille enregistrement : 369
+Appel	NumDirectContact	TAI+	4	la rubrique NumDirectContact a comme nouvelle taille 15 au lieu de 11

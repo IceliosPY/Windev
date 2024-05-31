@@ -1,0 +1,8 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Client		TAR	239	nouvelle taille enregistrement : 239
+Client	RaisonSociale	NNR	Nom	ATTENTION : la rubrique Nom a pour nouveau nom RaisonSociale
+Client	Prénom	RUB-		la rubrique Prénom est supprimée
+Licence		TAR	96	nouvelle taille enregistrement : 96
+Licence	NbrPostes	RUB+		NbrPostes est une nouvelle rubrique
+Habilitation_Support_Tech	Id_habilitationS	NNR	Id_habilitation	ATTENTION : la clé Id_habilitation a pour nouveau nom Id_habilitationS
+Habilitation_Formation	Id_habilitationF	NNR	Id_habilitation	ATTENTION : la clé Id_habilitation a pour nouveau nom Id_habilitationF

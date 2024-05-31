@@ -1,0 +1,4 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+SessionFormation		TAR	88	nouvelle taille enregistrement : 88
+SessionFormation	DateFin	RUB-		la rubrique DateFin est supprimée
+SessionFormation	HEureFin	RUB-		la rubrique HEureFin est supprimée

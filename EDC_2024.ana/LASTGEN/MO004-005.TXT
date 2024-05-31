@@ -1,0 +1,4 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Appel		TAR	1370	nouvelle taille enregistrement : 1370
+Appel	ObjetAppel	RUB+		ObjetAppel est une nouvelle rubrique
+Appel	RemarquesClient	TAI+	800	la rubrique RemarquesClient a comme nouvelle taille 1001 au lieu de 201
